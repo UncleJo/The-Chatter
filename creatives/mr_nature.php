@@ -20,7 +20,7 @@
 			<div id="wrapper">
 
 				<!-- Header -->
-					<?php include_once 'https://www.sanxchep.info/chatter_theme/include/menu.php'; ?>
+					<?php include_once '../include/menu.php'; ?>
 
 				<!-- Main -->
 					<div id="main">
