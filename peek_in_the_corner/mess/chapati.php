@@ -11,102 +11,14 @@
 		<title>A bite of the mess chapati</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
 	</head>
 	<body class="single is-preload">
 
 		<!-- Wrapper -->
 			<!-- Wrapper -->
 			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<h1><a href="index.html"><b>The Chatter</b></a></h1>
-						<nav class="links">
-							
-						</nav>
-						<nav class="main">
-							<ul>
-								<!--<li class="search">
-									<a class="fa-search" href="#search">Search</a>
-									<form id="search" method="get" action="#">
-										<input type="text" name="query" placeholder="Search" />
-									</form>
-								</li>-->
-								<li class="menu">
-									<a class="fa-bars" href="#menu">Menu</a>
-								</li>
-							</ul>
-						</nav>
-					</header>
-
-				<!-- Menu -->
-					<section id="menu">
-
-						<!-- Search 
-							<section>
-								<form class="search" method="get" action="#">
-									<input type="text" name="query" placeholder="Search" />
-								</form>
-							</section>
-
-						<!-- Links -->
-							<section>
-								<ul class="links">
-									<li>
-										<a href="#">
-											<h3>Home</h3>
-											
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<h3>Events</h3>
-											
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<h3>Kaalgrav</h3>
-											
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<h3>Clubs</h3>
-											
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<h3>Creative Section</h3>
-											
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<h3>About Us</h3>
-											
-										</a>
-									</li>
-									<li>
-										<a href="#">
-											<h3>Contact Us</h3>
-											
-										</a>
-									</li>
-								</ul>
-							</section>
-
-						<!-- Actions 
-							<section>
-								<ul class="actions stacked">
-									<li><a href="#" class="button large fit">Log In</a></li>
-								</ul>
-							</section>-->
-
-					</section>
-
+                    <?php include_once '../include/menu.php'; ?>
 				<!-- Main -->
 					<div id="main">
 
@@ -156,11 +68,11 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
 
 	</body>
 </html>

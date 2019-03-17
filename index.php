@@ -26,7 +26,7 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="creatives/republic_day_19.html">Republic Day</a></h2>
+										<h2><a href="creatives/republic_day_19.php">Republic Day</a></h2>
 									
 									</div>
 									<div class="meta">
@@ -34,11 +34,11 @@
 										<a href="#" class="author"><span class="name">Nilay Bhatnagar</span><img src="images/avatar.jpg" alt="" /></a>
 									</div>
 								</header>
-								<a href="creatives/republic_day_19.html" class="image featured"><img src="images/DSC_3427.JPG" alt="" width: 400px;  height: auto;   /></a>
+								<a href="creatives/republic_day_19.php" class="image featured"><img src="images/DSC_3427.JPG" alt="" width: 400px;  height: auto;   /></a>
 								<p align="justify">On a cold Saturday morning, the SMIT NCC contingent left for Tadong to attend a parade competition which was a part of Republic Day celebrations taking place at Sikkim Manipal Institute of Medical Sciences. It was indeed a matter of pride for SMIT as..</p>
 								<footer>
 									<ul class="actions">
-										<li><a href="creatives/republic_day_19.html" class="button large">Continue Reading</a></li>
+										<li><a href="creatives/republic_day_19.php" class="button large">Continue Reading</a></li>
 									</ul>
 									<ul class="stats">
 										<li><a href="#">General</a></li>
@@ -130,11 +130,11 @@
 									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
-												<h3><a href="creatives/why_do_i_read.html">Why do I read?</a></h3>
+												<h3><a href="creatives/why_do_i_read.php">Why do I read?</a></h3>
 												<time class="published" datetime="2015-10-20">JANUARY 30, 2019</time>
 												<a href="#" class="author"><img src="images/avatar.jpg" alt="" /></a>
 											</header>
-											<a href="creatives/why_do_i_read.html" class="image"><img src="images/index/wr.jpg" alt="" /></a>
+											<a href="creatives/why_do_i_read.php" class="image"><img src="images/index/wr.jpg" alt="" /></a>
 										</article>
 
 									<!-- Mini Post -->
@@ -147,11 +147,11 @@
 									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
-												<h3><a href="creatives/that_day.html">That Day</a></h3>
+												<h3><a href="creatives/that_day.php">That Day</a></h3>
 												<time class="published" datetime="2015-10-20">31ST JANUARY, 2019</time>
 												<a href="#" class="author"><img src="images/avatar.jpg" alt="" /></a>
 											</header>
-											<a href="creatives/that_day.html" class="image"><img src="images/index/trains.jpg" alt="" /></a>
+											<a href="creatives/that_day.php" class="image"><img src="images/index/trains.jpg" alt="" /></a>
 										</article>
 
 									<!-- Mini Post -->
@@ -164,11 +164,11 @@
 									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
-												<h3><a href="creatives/mr_nature.html">Mr Nature VS Mr Humans</a></h3>
+												<h3><a href="creatives/mr_nature.php">Mr Nature VS Mr Humans</a></h3>
 												<time class="published" datetime="2015-10-20">JANUARY 20, 2019</time>
 												<a href="#" class="author"><img src="images/avatar.jpg" alt="" /></a>
 											</header>
-											<a href="creatives/that_day.html" class="image"><img src="images/index/nvh.jpg" alt="" /></a>
+											<a href="creatives/that_day.php" class="image"><img src="images/index/nvh.jpg" alt="" /></a>
 										</article>
 
 									<!-- Mini Post -->
@@ -182,11 +182,11 @@
 									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
-												<h3><a href="peek_in_the_corner/mess/chapati.html">A bite of the mess chapati</a></h3>
+												<h3><a href="peek_in_the_corner/mess/chapati.php">A bite of the mess chapati</a></h3>
 												<time class="published" datetime="2015-10-20">December 17, 2018</time>
 												<a href="#" class="author"><img src="images/avatar.jpg" alt="" /></a>
 											</header>
-											<a href="peek_in_the_corner/mess/chapati.html" class="image"><img src="images/index/roti.jpg" alt="" /></a>
+											<a href="peek_in_the_corner/mess/chapati.php" class="image"><img src="images/index/roti.jpg" alt="" /></a>
 										</article>
 
 									<!-- Mini Post -->
